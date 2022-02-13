@@ -3,4 +3,4 @@ Repo, which contains files of the assignment from the course "tietokantojen peru
 
 FIN: Sisältää harjoitustyön, joka suoritettiin osana kurssia "tietokantojen perusteet". Harjoitustyössä suunniteltiin tietokanta annettujen speksien mukaisesti ja tehtiin kyselyjä siihen. 
 
-EN: coming soon
+
